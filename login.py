@@ -1,2 +1,2 @@
-if 2>1:
+if True:
     prinit('Oh shet')
